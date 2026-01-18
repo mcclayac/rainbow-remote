@@ -5,3 +5,4 @@ Yellow is the third color of the rainbow 2.
 Yellow is the third color of the rainbow 3.
 Yellow is the third color of the rainbow 4.
 Yellow is the third color of the rainbow 5.
+Green is the fourth color of the rainbow.
